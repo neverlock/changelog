@@ -8,7 +8,7 @@
 go get github.com/neverlock/changelog
 ```
 
-** Use
+## Use
 
 ```
 changelog -a neverlock -m  "delete some file from 127.0.0.1 server"
