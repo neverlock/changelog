@@ -1,8 +1,8 @@
-** Write your Changelog
+# Write your Changelog
 
 * some time I want to shot memo and lazy to edit file then I create changelog to write Changelog file in 1 line
 
-** Install
+## Install
 
 ```
 go get github.com/neverlock/changelog
